@@ -1,0 +1,44 @@
+[
+  {
+    "level": "1-1",
+    "file": "world-1-1.gif",
+    "bytes": 2629825,
+    "gif_sha256": "3b0fbfddfbf82d3379cda25fa163534136cf4075c133db5379c8d4c8c14b0d3e",
+    "source_video_sha256": "561e6a908c9f9fc57fb1464db07d5b35f5df924c09c227d56cd3dfcc611640b8",
+    "speed": 2,
+    "fps": 12,
+    "size": [
+      384,
+      360
+    ],
+    "content": "complete verified successful route, including short final-frame hold"
+  },
+  {
+    "level": "1-4",
+    "file": "world-1-4.gif",
+    "bytes": 2162693,
+    "gif_sha256": "ec3d15a342418f5d3de82cb8e5611a3245ad59f331f02704bc0ddea1d7c1d881",
+    "source_video_sha256": "86fe2c29922f131caca15468bb57ec6494b8ceabf821a43861f246cc2e44b375",
+    "speed": 2,
+    "fps": 12,
+    "size": [
+      384,
+      360
+    ],
+    "content": "complete verified successful route, including short final-frame hold"
+  },
+  {
+    "level": "2-2",
+    "file": "world-2-2.gif",
+    "bytes": 4577636,
+    "gif_sha256": "64b7a7afbf9610f63351f9728407f96d3aa10b664ea037f1ec3967589f2379ab",
+    "source_video_sha256": "f72ddd7815e7d33e3a32eded1dae94638d9cb52fc05631abae6e2a91c513d9f7",
+    "speed": 2,
+    "fps": 12,
+    "size": [
+      384,
+      360
+    ],
+    "content": "complete verified successful route, including short final-frame hold"
+  }
+]

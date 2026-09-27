@@ -1,0 +1,3 @@
+include LICENSE THIRD_PARTY_NOTICES.md
+recursive-include vendor *.cpp *.hpp
+recursive-include third_party *.LICENSE

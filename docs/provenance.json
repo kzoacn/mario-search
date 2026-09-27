@@ -1,0 +1,6 @@
+{
+  "nes_py_commit": "b6f4e26a96cf1dc2329b3b45b9f785dd7dbb30c6",
+  "upstream_wrappers_commit": "ab4248d715346c6adc33c2157455e2b98c130bcc",
+  "search": "Extracted from the locally verified mario_sprint search implementation; namespace and I/O packaging adapted, search ordering and state key unchanged.",
+  "rom_sha256": "ec299b990e8bfee8ba46e3f61d63b2e1ae5b8a2e431de84e2e4bbd692dc53586"
+}
