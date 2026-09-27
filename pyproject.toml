@@ -28,6 +28,7 @@ mario-search = "mario_search.cli:main"
 
 [tool.setuptools]
 packages = ["mario_search"]
+license-files = ["LICENSE", "third_party/*.LICENSE"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
